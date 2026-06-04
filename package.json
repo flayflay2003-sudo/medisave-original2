@@ -11,8 +11,9 @@
     "lint": "eslint .",
     "format": "prettier --write ."
   },
-  "dependencies": {
+  "dependencies":{
     "@hookform/resolvers": "^5.2.2",
+    "nitro": "latest",
     "@radix-ui/react-accordion": "^1.2.12",
     "@radix-ui/react-alert-dialog": "^1.1.15",
     "@radix-ui/react-aspect-ratio": "^1.1.8",
